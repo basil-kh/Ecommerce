@@ -1,4 +1,4 @@
-import { useSelector } from "react-redux";
+//import { useSelector } from "react-redux";
 import {
   BrowserRouter as Router,
   Navigate,
@@ -15,7 +15,7 @@ import Success from "./pages/Success";
 import ScrollToTop from "./ScrollToTop";
 
 const App = () => {
-  const user = useSelector((state) => state.user.currentUser);
+  const user = false; //useSelector((state) => state.user.currentUser);
   return (
     <Router>
       <ScrollToTop />
