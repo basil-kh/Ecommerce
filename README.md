@@ -69,7 +69,17 @@
     <img src="https://i.gyazo.com/6c4a0f46523d077071fab86a679463eb.gif">
     </div>
   </div> 
+<h2> Compatible with mobile devices: </h2>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+    <img width="20%" height="20%" src="https://i.gyazo.com/acd8b16912af3205283e096e0cee0bac.gif">
+    </div>
+  </div> 
 </div>
+  
+  
+</div>
+
 
                    Check out the website to see all the features I couldn't fit here!
                    To open the website for yourself simply clone this repo and install all the dependencies:
