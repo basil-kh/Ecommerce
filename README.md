@@ -35,34 +35,35 @@
   <h3>Custom slider on home page:</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://gyazo.com/40774927db99c7230794187bd33a7f90">
+    <img src="https://i.gyazo.com/40774927db99c7230794187bd33a7f90.mp4">
     </div>
   </div>       
           <div align="center">
   <h3>Homepage and hover animations:</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://gyazo.com/70c9e2eb1af93c20ab6ac89a2ecdf58a">
+    <img src="https://i.gyazo.com/70c9e2eb1af93c20ab6ac89a2ecdf58a.gif">
     </div>
   </div> 
 <h3>Filter by size and color and sort by price:</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://gyazo.com/4e6f4fa70d000fefa82ff86bfb4631ee">
+    <img src="https://i.gyazo.com/4e6f4fa70d000fefa82ff86bfb4631ee.gif">
     </div>
   </div> 
                     <h3>Browse by category and add to cart (with responsive cart):</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://gyazo.com/987b735eae93b069246e9e2fece8d66e">
+    <img src="https://i.gyazo.com/987b735eae93b069246e9e2fece8d66e.gif">
     </div>
   </div> 
                                         <h3>Payment via Stripe Checkout:</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://gyazo.com/6c4a0f46523d077071fab86a679463eb">
+    <img src="https://i.gyazo.com/6c4a0f46523d077071fab86a679463eb.gif">
     </div>
   </div> 
+          </div>
                     
           
                     To open the website for yourself simply clone this repo and install all the dependencies:
