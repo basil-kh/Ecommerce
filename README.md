@@ -35,7 +35,7 @@
   <h3>Custom slider on home page:</h3>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://i.gyazo.com/40774927db99c7230794187bd33a7f90.mp4">
+    <img src="https://i.gyazo.com/40774927db99c7230794187bd33a7f90.gif">
     </div>
   </div>       
           <div align="center">
