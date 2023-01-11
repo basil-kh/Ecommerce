@@ -28,45 +28,51 @@
 <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           
 ## Here are some examples of the key feautres the site has:
-### Check out the website to see all the features i couldn't fit here!
+### Check out the website to see all the features I couldn't fit here!
 </div>
 
 <div align="center">
-  <h3>Custom slider on home page:</h3>
+          
+<h2> Slider on Home-page: </h2>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-    <img src="https://i.gyazo.com/40774927db99c7230794187bd33a7f90.gif">
+              <p><div><a><img src="https://i.gyazo.com/1ccb3807b42836e9fd6980ab91962050.mp4"></a></div></p>
+            https://i.gyazo.com/1ccb3807b42836e9fd6980ab91962050.mp4
     </div>
-  </div>       
-          <div align="center">
-  <h3>Homepage and hover animations:</h3>
+  </div>  
+        
+        
+<h2> Homepage and hover animations: </h2>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
     <img src="https://i.gyazo.com/70c9e2eb1af93c20ab6ac89a2ecdf58a.gif">
     </div>
   </div> 
-<h3>Filter by size and color and sort by price:</h3>
+ 
+<h2> Filter by size and color and sort by price: </h2>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
     <img src="https://i.gyazo.com/4e6f4fa70d000fefa82ff86bfb4631ee.gif">
     </div>
   </div> 
-                    <h3>Browse by category and add to cart (with responsive cart):</h3>
+
+<h2> Browse by category and add to cart (with responsive cart): </h2>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
     <img src="https://i.gyazo.com/987b735eae93b069246e9e2fece8d66e.gif">
     </div>
   </div> 
-                                        <h3>Payment via Stripe Checkout:</h3>
+
+<h2> Payment via Stripe Checkout: </h2>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
     <img src="https://i.gyazo.com/6c4a0f46523d077071fab86a679463eb.gif">
     </div>
   </div> 
-          </div>
-                    
-          
-                    To open the website for yourself simply clone this repo and install all the dependencies:
+</div>
+
+                   Check out the website to see all the features I couldn't fit here!
+                   To open the website for yourself simply clone this repo and install all the dependencies:
 
 ```
 yarn install
@@ -83,5 +89,3 @@ and for the backend(ecomback) run:
 ```
 yarn devStart
 ```
-          
-          
