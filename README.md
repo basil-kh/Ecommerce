@@ -27,8 +27,60 @@
 
 <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
           
+## Here are some examples of the key feautres the site has:
+### Check out the website to see all the features i couldn't fit here!
+</div>
 
-## Available Scripts
+<div align="center">
+  <h3>Custom slider on home page:</h3>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+    <img src="https://gyazo.com/40774927db99c7230794187bd33a7f90">
+    </div>
+  </div>       
+          <div align="center">
+  <h3>Homepage and hover animations:</h3>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+    <img src="https://gyazo.com/70c9e2eb1af93c20ab6ac89a2ecdf58a">
+    </div>
+  </div> 
+<h3>Filter by size and color and sort by price:</h3>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+    <img src="https://gyazo.com/4e6f4fa70d000fefa82ff86bfb4631ee">
+    </div>
+  </div> 
+                    <h3>Browse by category and add to cart (with responsive cart):</h3>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+    <img src="https://gyazo.com/987b735eae93b069246e9e2fece8d66e">
+    </div>
+  </div> 
+                                        <h3>Payment via Stripe Checkout:</h3>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div>
+    <img src="https://gyazo.com/6c4a0f46523d077071fab86a679463eb">
+    </div>
+  </div> 
+                    
+          
+                    To open the website for yourself simply clone this repo and install all the dependencies:
 
-On startup change directories to the "ecomfront" folder and run "yarn start" in console to launch the react application
-also change directories to the "ecomback" folder and run "yarn devStart" in console to launch the server and connect to mongoDB.
+```
+yarn install
+```
+
+Then for the client(ecomfront) run:
+
+```
+yarn start
+```
+
+and for the backend(ecomback) run:
+
+```
+yarn devStart
+```
+          
+          
