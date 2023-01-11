@@ -4,7 +4,6 @@
 
 ## Users can shop online through low maintanence house plants, view product page via category, filter by size and color. Sort by price, add items to basket, and checkout/pay for their order.
 
-## Check each directory's README for more detail
 
 # Client
 
