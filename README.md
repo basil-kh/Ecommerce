@@ -36,8 +36,8 @@
 <h2> Slider on Home-page: </h2>
   <div style="display: flex; align-items: center; justify-content: center;">
     <div>
-              <p><div><a><img src="https://i.gyazo.com/1ccb3807b42836e9fd6980ab91962050.mp4"></a></div></p>
-            https://i.gyazo.com/1ccb3807b42836e9fd6980ab91962050.mp4
+              <img src="https://i.gyazo.com/1ccb3807b42836e9fd6980ab91962050.gif">
+            https://i.gyazo.com/1ccb3807b42836e9fd6980ab91962050.gif
     </div>
   </div>  
         
