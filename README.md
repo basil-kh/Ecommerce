@@ -88,13 +88,13 @@
 yarn install
 ```
 
-Then for the client(ecomfront) run:
+Then for the client("ecomfront") run:
 
 ```
 yarn start
 ```
 
-and for the backend(ecomback) run:
+and for the backend("ecomback") run:
 
 ```
 yarn devStart
